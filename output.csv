@@ -1,0 +1,11 @@
+Name,Role_Fit,Funded,Scientific_Intent,Location_Hub,Total_Score,Rank
+Dr. Ananya Sharma,Yes,Yes,Yes,Yes,100,1
+Dr. Michael Lee,Yes,Yes,Yes,Yes,100,2
+Dr. Mehul Shah,Yes,Yes,Yes,Yes,100,3
+Dr. Hannah Wilson,Yes,Yes,Yes,Yes,100,4
+Dr. Neha Kulkarni,Yes,No,Yes,Yes,80,5
+Dr. Shalini Gupta,Yes,No,Yes,Yes,80,6
+Dr. Alex Turner,Yes,Yes,No,No,50,7
+Dr. Thomas Reed,No,No,No,Yes,10,8
+Dr. Priya Nair,No,No,Yes,No,40,9
+Dr. Ryan Cooper,No,No,No,No,0,10
